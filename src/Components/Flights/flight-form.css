@@ -1,0 +1,11 @@
+.mt-2 {
+    margin-top: 10px;
+}
+
+.required-field::after {
+
+    content: "*";
+
+    color: red;
+
+}

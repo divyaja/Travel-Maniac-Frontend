@@ -1,0 +1,77 @@
+{
+
+    "id": 3,
+
+    "dealName": null,
+
+    "departureCityName": "AUSTIN",
+
+    "arrivalCityName": "DENVER",
+
+    "departureDate": "2022-11-26T00:00:00.000+00:00",
+
+    "arrivalDate": "2022-11-26T00:00:00.000+00:00",
+
+    "minPrice": 0,
+
+    "maxPrice": 0,
+
+    "deals_price": 110,
+
+    "miles": 15000,
+
+    "airline": "American Airlines",
+
+    "arrivalTime": "08:41:00",
+
+    "departureTime": "05:30:00",
+
+    "user": {
+
+        "id": 1,
+
+        "username": "jack",
+
+        "password": "jack123",
+
+        "email": "aoc38@txstate.edu",
+
+        "firstName": "jack",
+
+        "middleName": "",
+
+        "lastName": "Kakarla",
+
+        "mailingAddress": "8000 123456 San Marcos Texas",
+
+        "cards": [
+
+            {
+
+                "cardId": 1,
+
+                "cardNumber": 7892698265669898589,
+
+                "expiryDate": "2222-03",
+
+                "cvv": 555,
+
+                "cardType": "MASTERCARD",
+
+                "cardOwnerName": "jack Hitler Carsi",
+
+                "user": null,
+
+                "default": true
+
+            }
+
+        ],
+
+        "userMiles": null,
+
+        "userRating": null
+
+    }
+
+}

@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "flightNumber": "SLT978",
+            "airline": "American Airlines",
+            "departureCityName": "SEATTLE",
+            "arrivalCityName": "HOUSTON",
+            "departureTime": "05:30:00",
+            "arrivalTime": "08:41:00",
+            "departureDate": "2022-12-01",
+            "arrivalDate": "2022-12-01",
+            "isArrived": true,
+            "isInflight": false,
+            "isDelayed": false
+        },
+        {
+            "id": 2,
+            "flightNumber": "PHX321",
+            "airline": "Delta Airlines",
+            "departureCityName": "PHOENIX",
+            "arrivalCityName": "DALLAS",
+            "departureTime": "12:30:00",
+            "arrivalTime": "17:41:00",
+            "departureDate": "2022-12-01",
+            "arrivalDate": "2022-12-01",
+            "isArrived": false,
+            "isInflight": true,
+            "isDelayed": false
+        },
+        {
+            "id": 3,
+            "flightNumber": "DDTM09",
+            "airline": "American Airlines",
+            "departureCityName": "DETROIT",
+            "arrivalCityName": "MEMPHIS",
+            "departureTime": "11:30:00",
+            "arrivalTime": "08:41:00",
+            "departureDate": "2022-12-01",
+            "arrivalDate": "2022-12-01",
+            "isArrived": true,
+            "isInflight": false,
+            "isDelayed": false
+        },
+        {
+            "id": 4,
+            "flightNumber": "DST567",
+            "airline": "Delta Airlines",
+            "departureCityName": "DALLAS",
+            "arrivalCityName": "BOSTON",
+            "departureTime": "12:30:00",
+            "arrivalTime": "04:41:00",
+            "departureDate": "2022-12-03",
+            "arrivalDate": "2022-12-03",
+            "isArrived": false,
+            "isInflight": false,
+            "isDelayed": false
+        },
+        {
+            "id": 5,
+            "flightNumber": "BOSF12",
+            "airline": "Delta Airlines",
+            "departureCityName": "HOUSTON",
+            "arrivalCityName": "SAN DIEGO",
+            "departureTime": "05:30:00",
+            "arrivalTime": "08:41:00",
+            "departureDate": "2022-12-02",
+            "arrivalDate": "2022-12-02",
+            "isArrived": false,
+            "isInflight": false,
+            "isDelayed": false
+        },
+        {
+            "id": 6,
+            "flightNumber": "BOSF12",
+            "airline": "American Airlines",
+            "departureCityName": "SEATTLE",
+            "arrivalCityName": "DENVER",
+            "departureTime": "09:40:00",
+            "arrivalTime": "19:41:00",
+            "departureDate": "2022-12-01",
+            "arrivalDate": "2022-12-01",
+            "isArrived": false,
+            "isInflight": true,
+            "isDelayed": false
+        }
+    ]
+}

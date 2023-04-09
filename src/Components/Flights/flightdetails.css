@@ -1,0 +1,12 @@
+.brdr-btm {
+    border-bottom: 1px solid #ccc;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+.centered-div
+{
+    align-items: center;
+}

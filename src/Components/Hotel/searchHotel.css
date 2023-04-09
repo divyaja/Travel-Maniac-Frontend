@@ -1,0 +1,26 @@
+.ml-4 {
+  margin-left: 10px;
+}
+.mrgn {
+margin: 10px;
+}
+/* .border-right{
+  border-right: 1px solid gray;
+} */
+/* .scroll-vertical {
+  overflow-y: scroll;
+} */
+.active_btn {
+  background-color: deepskyblue !important;
+}
+.btn {
+  border: 1px solid whitesmoke !important;
+}
+.btn:focus {
+  box-shadow: none !important;
+  /* outline: thin dotted !important; */
+}
+.flt-rt {
+  float: right;
+  margin: 10px;
+}

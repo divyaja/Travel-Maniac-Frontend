@@ -1,0 +1,23 @@
+.list-flight .MuiPaper-root{
+    max-width: 100% !important;
+}
+.flex-container {
+    display: flex;
+    /* background-color: DodgerBlue; */
+    justify-content: space-between;
+  }
+  
+  .flex-container > div {
+    /* background-color: #f1f1f1; */
+    margin: 10px;
+    padding: 10px;
+    font-size: 14px;
+  }
+  .fnt{
+    font-size: 14px;
+  }
+  .card-list:hover {
+    border-color: hsl(88, 88%, 28%);
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 29%);
+    transition: all 0.2s ease-in-out;
+  }

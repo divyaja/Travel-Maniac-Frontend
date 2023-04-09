@@ -1,0 +1,11 @@
+.add-space {
+    margin: 10px;
+  }
+
+  .required-field::after {
+
+    content: "*";
+
+    color: red;
+
+}

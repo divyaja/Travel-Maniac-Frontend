@@ -1,0 +1,24 @@
+.Wrapper {
+    width: 100%;
+    max-width: 1024px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+  }
+
+
+  .Title {
+    font-size: 24px;
+    align-content: center;
+  }
+  
+
+  .hotelDetailsPrice {
+    flex: 1;
+    background-color: #ebf3ff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
